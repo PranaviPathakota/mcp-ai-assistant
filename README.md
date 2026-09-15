@@ -14,7 +14,7 @@ Built for CSCE 689: Programming LLMs (HW3).
 | Web search | DuckDuckGo MCP server |
 | Email management | Gmail MCP server (auto-auth) |
 | Calendar scheduling | Google Calendar MCP server |
-| PDF Q&A | Gemini API (gemini-2.5-flash) |
+| PDF Q&A | Gemini API (gemini-3.6-flash) |
 | Browser automation | Playwright MCP server |
 | Pizza ordering (browser) | Playwright + DuckDuckGo |
 | Pizza ordering (API) | MCPizza + Domino's API |
@@ -187,8 +187,3 @@ See [docs/PIZZA_ORDERING.md](docs/PIZZA_ORDERING.md) for the Domino's API orderi
 
 **Node.js servers**: Run via `npx` — no build step required. Source in `servers/src/` for reference.
 
----
-
-## License
-
-MIT
