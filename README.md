@@ -2,7 +2,6 @@
 
 A privacy-aware AI assistant built on the **Model Context Protocol (MCP)**. It connects a local LLM (Ollama) and Google Gemini to a suite of tools — filesystem access, web search, email, calendar, browser automation, and pizza ordering — all through a unified MCP interface.
 
-Built for CSCE 689: Programming LLMs (HW3).
 
 ---
 
